@@ -1,1 +1,1 @@
-Simple Skill pour appréhender la logique et l'architecture de Alexa
+Simple Skill pour appréhender la logique et l'architecture d'applications Alexa.
